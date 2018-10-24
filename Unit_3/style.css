@@ -1,5 +1,5 @@
 body{
-	font-family: Helvetica, san-serif;
+	font-family: Helvetica;
 }
 h1{
 	text-align: left;
@@ -8,12 +8,15 @@ h1{
 	font-size: 40px;
 	font-weight: 400;
 }
+
 img{
-	align-content: right;
+	float: right;
 }
-p1{
+h2{
 	text-align: left;
+	font-size: 14px;
 }
-p{
+h3{
 	text-align:right;
+	font-size: 14px;
 }
