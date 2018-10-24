@@ -1,9 +1,19 @@
+body{
+	font-family: Helvetica, san-serif;
+}
 h1{
 	text-align: left;
 	background-color: white;
 	color: black;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 400;
-	font-family: Helvetica, san-serif;
-
+}
+img{
+	align-content: right;
+}
+p1{
+	text-align: left;
+}
+p{
+	text-align:right;
 }
