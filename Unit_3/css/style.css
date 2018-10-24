@@ -11,10 +11,10 @@ h1 {
 }
 
 p {
-	text-align: left;
+	text-align: ceter;
 	font-size: 14px;
 }
 .text{
-	text-align: right;
+	text-align: center;
 	font-size: 14px;	
 }
