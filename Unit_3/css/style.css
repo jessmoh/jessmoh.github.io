@@ -1,14 +1,17 @@
-h1 {
+body{
 	font-family: 'Source Sans Pro', sans-serif;
-	text-align: right;
+}
+
+h1 {
+	text-align: left;
 	background-color: white;
 	color: black;
-	font-size: 80px;
+	font-size: 50px;
 	font-weight: 400;
 }
 
 p {
-	text-align: right;
+	text-align: left;
 	font-size: 14px;
 }
 .text{
