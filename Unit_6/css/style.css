@@ -8,16 +8,25 @@ nav{
 	border:1px black solid;
 	padding:20px;
 }
-.image{
-	background-color:#E89C6C;
+
+#two{
+	background-color:##FFB7CF;
 	border:1px black solid;
 	padding:20px;
 }
-.text{
-	background-color:#FFC675;
+
+#left{
+	background-color:#E582A2;
 	border:1px black solid;
 	padding:20px;
 }
+
+#right{
+	background-color:#E55B88;
+	border:1px black solid;
+	padding:20px;	
+}
+
 footer{
 	background-color:#FF957E;
 	border:1px black solid;
