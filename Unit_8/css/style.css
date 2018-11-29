@@ -12,14 +12,14 @@ body, nav{
 	font-size: 10px;	
 }
 
-#img {
+#hero-img {
 	display: block;
 	margin: 0 auto;
 	width:80%;
 }
 
 @media only screen and (max-width: 768px) {
-	#img{
+	#hero-img{
 		width:100%;
 	}
 }
