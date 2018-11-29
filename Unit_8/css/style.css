@@ -12,14 +12,3 @@ body, nav{
 	text-align: center;
 	font-size: 10px;	
 }
-
-#img {
-	width:50%;
-	text-align: center;
-}
-
-@media only screen and (max-width: 768px) {
-	#img {
-		width:100%;
-	}
-}
