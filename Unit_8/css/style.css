@@ -12,13 +12,9 @@ h1 {
 	font-weight: 400;
 }
 
-#img {
-	text-align: center;
-	width:50%;
-}
 
-@media only screen and (max-width: 768px) and (max-width: 400px) {
-	#img {
+@media only screen and (max-width: 768px) {
+	#left {
 		width:100%;
 	}
 }
